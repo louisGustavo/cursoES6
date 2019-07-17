@@ -5,7 +5,7 @@ Curso administrado pelo tutor Diego Fernandes e distribuído gratuitamente pela 
 Interessados acessar [RocketSeat Starter](https://rocketseat.com.br/starter) e requisitar seu acesso
 <br>
 <br>
-## Módulo 1. Conceitos [Total de 12 aulas]
+### Módulo 1. Conceitos [Total de 12 aulas]
 <br> 
 - [FEITO] Introdução;
 - [FEITO] Instalando Node e Yarn;
