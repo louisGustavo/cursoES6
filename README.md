@@ -2,7 +2,7 @@
 
 Curso administrado pelo tutor Diego Fernandes e distribuído gratuitamente pela RocketSeat
 <br>
-Interessados acessar: `Curso Rocket Seat Stater <https://rocketseat.com.br/starter>`_page e requisitar seu acesso
+Interessados acessar: `Curso Rocket Seat Stater <https://rocketseat.com.br/starter>`_ e requisitar seu acesso
 <br>
 <br>
 Módulo 1. Conceitos [Total de 12 aulas]
