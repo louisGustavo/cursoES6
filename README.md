@@ -4,6 +4,8 @@ Curso administrado pelo tutor Diego Fernandes e distribuído gratuitamente pela 
 <br>
 Interessados acessar: `Curso Rocket Seat Stater <https://rocketseat.com.br/starter>` e requisitar seu acesso
 <br>
+`CodeIgniter Downloads
+<https://codeigniter.com/download>`_ page
 <br>
 Módulo 1. Conceitos [Total de 12 aulas]
 <br> 
