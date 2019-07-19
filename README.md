@@ -2,11 +2,10 @@
 
 Curso administrado pelo tutor Diego Fernandes e distribuído gratuitamente pela RocketSeat
 <br>
-Interessados acessar: https://rocketseat.com.br/starter e requisitar seu acesso
+Interessados acessar [RocketSeat Starter](https://rocketseat.com.br/starter) e requisitar seu acesso
 <br>
-<br>
-Módulo 1. Conceitos [Total de 12 aulas]
-<br> 
+### Módulo 1. Conceitos [Total de 12 aulas]
+
 - [FEITO] Introdução;
 - [FEITO] Instalando Node e Yarn;
 - [FEITO] Configurando Babel;
@@ -18,5 +17,5 @@ Módulo 1. Conceitos [Total de 12 aulas]
 - [] Desestruturação;
 - [] Operadores rest/spread;
 - [] Template Literals;
-- [] Objetc Short Sintax;
+- [] Object Short Sintax;
 - [] Desafio
