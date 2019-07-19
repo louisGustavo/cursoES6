@@ -13,9 +13,9 @@ Interessados acessar [RocketSeat Starter](https://rocketseat.com.br/starter) e r
 - [FEITO] Const e Let;
 - [FEITO] Operações em Array;
 - [FEITO] Arrow Functions;
-- [] Valores Padrão;
-- [] Desestruturação;
-- [] Operadores rest/spread;
+- [FEITO] Valores Padrão;
+- [FEITO] Desestruturação;
+- [FEITO] Operadores rest/spread;
 - [] Template Literals;
 - [] Object Short Sintax;
 - [] Desafio
