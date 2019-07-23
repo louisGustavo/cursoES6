@@ -36,7 +36,7 @@ v10.16.0
 yarn -v
 ```
 Caso esteja tudo correto o terminal deve retornar a versão do Yarn assim como ocorreu com o Node
-<br>
+<br><br>
 Observações: Caso ao rodar o yarn -v ou node -v responder que o comando é inválido ou inexistente, feche o terminal, abra novamente e tente rodar os comandos. Pode ser que o terminal atualmente ativo não tenha recebido as atualizações ainda.
 
 ### Configurando o Babel
@@ -91,6 +91,7 @@ Se todas as configurações e instalação de dependências estiverem corretas, 
 }
 ```
 Execute yarn dev novamente e agora ele ficará monitorando o código a cada alteração feita.
+<br>
 11. No arquivo index.html, acrescente o caminho do arquivo bundle.js para que o script interpretado seja executado ao abrir o arquivo.
 ```
 <!DOCTYPE html>
