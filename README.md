@@ -46,6 +46,7 @@ Observações: Caso ao rodar o yarn -v ou node -v responder que o comando é inv
 yarn init
 ```
 Ao fazer esse comando, o yarn criará um arquivo na raiz do projeto chamado package.json que armazenará as informações de dependência da aplicação.
+<br>
 2. Com o yarn iniciado e o arquivo package.json criado, execute via terminal
 ```
 yarn add @babel/cli
@@ -56,6 +57,7 @@ Com essa dependência é possível trabalhar com a interface de linha de comando
 yarn add @babel/preset-env
 ```
 Feito os comando acima, na raiz do projeto deve conter uma pasta chamada node_modules e um arquivo chamado yarn.lock
+<br>
 4. Caso use o git para versionamento, crie o arquivo .gitignore e informe o caminho da pasta node_modules para deixar o projeto mais leve ao versionar
 ```
 node_modules/
@@ -67,7 +69,9 @@ node_modules/
 }
 ```
 O preset determina o ambiente que o projeto está sendo desenvolvido (Node, ReactNative, entre outros). Ele vai converter as features do S6, S7, S8 para S5 que é o que a maioria dos navegadores entende.
+<br>
 6. Na raiz do projeto crie os arquivos index.html e main.js
+<br>
 7. No terminal, execute o seguinte comando
 ```
 yarn add @babel/core
@@ -79,11 +83,13 @@ yarn add @babel/core
 }
 ```
 Esse script irá criar um arquivo bundle com a interpretação do código feito no main da forma que o navegador irá entender
+<br>
 9. No terminal, execute o comando
 ```
 yarn dev
 ```
 Se todas as configurações e instalação de dependências estiverem corretas, o comando será executado no terminal sem falhas. O arquivo bundle será criado automaticamente e com o código digitado no main 'traduzido' para o navegador.
+<br>
 10. Para que a cada alteração não seja necessário rodar o comando yarn dev no navegador, acrescente -w ao final da regra do script em package.json
 ```
 "scripts" : {
