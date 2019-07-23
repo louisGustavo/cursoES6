@@ -22,7 +22,6 @@ Interessados acessar [RocketSeat Starter](https://rocketseat.com.br/starter) e r
 ### Instalação do NodeJs e Yarn
 
 1. Faça o Download do [NodeJs](https://nodejs.org/en/) e instale seguindos os passos conforme seu S.O.;
-<br>
 2. Para verificar se o Node foi instalado corretamente, via terminal digite
 ```
 node -v
