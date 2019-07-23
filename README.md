@@ -52,6 +52,7 @@ Ao fazer esse comando, o yarn criará um arquivo na raiz do projeto chamado pack
 yarn add @babel/cli
 ```
 Com essa dependência é possível trabalhar com a interface de linha de comando do babel
+<br>
 3. Instalado a denpendência mencionada, execute via terminal
 ```
 yarn add @babel/preset-env
