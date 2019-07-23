@@ -31,7 +31,6 @@ Caso esteja tudo correto o terminal deve retornar a versão do Node instalada na
 v10.16.0
 ```
 3. Faça o download do [Yarn](https://yarnpkg.com/pt-BR/) e instale seguindos os passos conforme seu S.O.;
-<br>
 4. Para verificar se o Yarn foi instalado corretamente, via terminal digite
 ```
 yarn -v
