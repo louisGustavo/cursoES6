@@ -207,3 +207,36 @@ const user1 = {
 //recupero as informações do usuário e só mudo o nome
 const user2 = { ...user1, nome : 'Gustavo' };
 console.log(user2);
+
+//---------| TEMPLATE LITERALS |---------
+console.log('-----| TEMPLATE LITERALS |------');
+
+//é uma forma mais fácil de manipular variáveis dentro de strings
+//e deixar a sintaxe menor
+
+const nome = 'Luis';
+const idade = 29;
+
+console.log(`Meu nome é ${nome} e tenho ${idade} anos`);
+
+//---------| OBJECT SHORT SINTAX |---------
+console.log('-----| OBJECT SHORT SINTAX |------');
+
+//Quando o nome da propriedade é igual ao nome da variável não é necessário
+//declará-la de forma convecional (nome: nome) bastando somente uma delas
+
+const categoria = 'carros';
+const marca = 'ford';
+
+const concessionaria = {
+	categoria,
+	marca,
+	modelo : 'Ka'
+};
+console.log(concessionaria);
+
+//---------| CONFIGURANDO WEBPACK |---------
+console.log('-----| CONFIGURANDO WEBPACK |------');
+import {somaNum} from './funcoes';
+
+console.log(somaNum(2,5));
